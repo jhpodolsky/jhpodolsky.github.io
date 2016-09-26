@@ -35,10 +35,6 @@ li.closed {
 	text-align: left;
 }
 
-li.open {
-	list-style: circle;
-}
-
 .just {
 	float: right;
 }
